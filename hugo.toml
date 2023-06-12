@@ -1,4 +1,4 @@
-baseURL = 'https://rwlpf.github.io/'
+baseURL = 'https://rwlpf.github.io/index.html'
 languageCode = 'en-gb'
 title = 'SQL Bob Scot Blog'
 theme='ananke'
